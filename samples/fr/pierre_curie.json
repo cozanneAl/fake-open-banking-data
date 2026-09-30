@@ -18,7 +18,7 @@
       "type": "CHECKING",
       "usage": "PERSONAL",
       "iban": "FR7630003401180001234567855",
-      "number": "account 01",
+      "number": "00012345678",
       "bic": "BNPAFRPPXXX",
       "transactions": [
         {
@@ -437,10 +437,7 @@
       "balanceDate": "2026-09-30T12:00:00.000Z",
       "owners": [
         {
-          "name": "PIERRE CURIE"
-        },
-        {
-          "name": "MARIE CURIE"
+          "name": "PIERRE ET MARIE CURIE"
         }
       ],
       "bank": {
@@ -452,7 +449,7 @@
       "type": "CHECKING",
       "usage": "PERSONAL",
       "iban": "FR7630003401180005556667762",
-      "number": "account 02",
+      "number": "00055566677",
       "bic": "BNPAFRPPXXX",
       "transactions": [
         {
